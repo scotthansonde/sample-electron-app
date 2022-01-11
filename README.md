@@ -7,7 +7,9 @@ electron-packager . --platform=linux
 electron-installer-debian --src QuickStart-linux-x64 --dest pkg --arch amd64
 ```
 
-The resulting .deb package is unter pkg/
+The resulting .deb package is unter pkg/ and can be installed from the filesystem with `sudo apt install ./electron-quick-start_1.0.0_amd64.deb` 
+
+![CleanShot 2022-01-11 at 14 31 47](https://user-images.githubusercontent.com/8681117/148951934-14fe1bd5-2df3-4b2f-80e8-f6a3ec55963e.png)
 
 # electron-quick-start
 
