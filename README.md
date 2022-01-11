@@ -1,3 +1,14 @@
+# Hello World Electron App for Linux
+
+Built with
+
+```
+electron-packager . --platform=linux
+electron-installer-debian --src QuickStart-linux-x64 --dest pkg --arch amd64
+```
+
+The resulting .deb package is unter pkg/
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
