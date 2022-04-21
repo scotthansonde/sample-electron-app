@@ -22,6 +22,6 @@
     "electron": "^16.0.6",
     "electron-installer-debian": "^3.1.0",
     "electron-installer-snap": "^5.1.0",
-    "electron-packager": "^15.4.0"
+    "electron-packager": "^15.5.1"
   }
 }
